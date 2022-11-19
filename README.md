@@ -46,5 +46,6 @@ This project was possible thanks to @william-horn and his tutorial, which can be
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
+Jose - LinkedIn: jarteaga00
 ---
 
