@@ -1,9 +1,8 @@
-# <jose-arteaga-module3-challenge>
+# <jose-password-generator>
 
 ## Description
 
-The motivation behind this project was to to provide a service for individuals who constantly have to come up with several different passwords. This project was built with the 
-intention to make the lives of those indidivudals easier by generating automated passwords for them. This project helps solves the problem of having to come up with unique and hard to crack passwords, as well as attending to the users needs by generating passwords based on their preference of how long it should be, and what characters or symbols it should include. I learned that 
+The motivation behind this project was to to provide a service for individuals who constantly have to come up with several different passwords. This project was built with the intention to make the lives of those indidivudals easier by generating automated passwords for them. This project helps solves the problem of having to come up with unique and hard to crack passwords, as well as attending to the users needs by generating passwords based on their preference of how long it should be, and what characters or symbols it should include. I learned that 
 
 ## Table of Contents
 
@@ -15,6 +14,11 @@ intention to make the lives of those indidivudals easier by generating automated
 ## Installation
 
 1. Direct your browser to github.com - and find What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+    
+    1. Navigate to https://github.com/jarteaga00/jose-password-generator. 
+    2. In the green code button, copy the clone url for either HTTPS or SSH. 
+    3. Open up your command line interface, type in git clone along with the url copied from github, and press enter. 
+    4. Navigate to VS Code, anduse the explorer icon in the top left of the screen to find the cloned code and open up the development enviornment. 
 
 ## Usage
 
@@ -30,7 +34,7 @@ To generate a password:
         
         After pressing either "ok" for yes or "cancel" for no on each of these prompts, a password will be generated for you based on your input, and appear in the center box.  
 
-For reference, see screenshot at (./assets/images/screenshot1.png)
+For reference of main page, see screenshot at (./assets/images/password-generator-homepage.jpg)
 
 ## Credits
 
