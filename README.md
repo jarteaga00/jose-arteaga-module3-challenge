@@ -2,7 +2,7 @@
 
 ## Description
 
-The motivation behind this project was to to provide a service for individuals who constantly have to come up with several different passwords. This project was built with the intention to make the lives of those indidivudals easier by generating automated passwords for them. This project helps solves the problem of having to come up with unique and hard to crack passwords, as well as attending to the users needs by generating passwords based on their preference of how long it should be, and what characters or symbols it should include. I learned that 
+The motivation behind this project was to to provide a service for individuals who constantly have to come up with several different passwords. This project was built with the intention to make the lives of those indidivuals easier by generating automated passwords for them. This project helps solves the problem of having to come up with unique and hard to crack passwords, as well as attending to the users needs by generating passwords based on their preference of how long it should be, and what characters or symbols it should include.
 
 ## Table of Contents
 
@@ -17,8 +17,8 @@ The motivation behind this project was to to provide a service for individuals w
     
     1. Navigate to https://github.com/jarteaga00/jose-password-generator. 
     2. In the green code button, copy the clone url for either HTTPS or SSH. 
-    3. Open up your command line interface, type in git clone along with the url copied from github, and press enter. 
-    4. Navigate to VS Code, anduse the explorer icon in the top left of the screen to find the cloned code and open up the development enviornment. 
+    3. Open up your command line interface, type in "git clone " along with the url copied from github, and press enter. 
+    4. Navigate to VS Code, and use the explorer icon in the top left of the screen to find the folder in which the cloned code was stored, which will open up the development enviornment. 
 
 ## Usage
 
@@ -38,18 +38,12 @@ For reference of main page, see screenshot at (./assets/images/password-generato
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.'
-
 This project was possible thanks to @william-horn and his tutorial, which can be found at https://www.youtube.com/watch?v=AFTvxsVv52k&t=1289s. 
 
 ## License
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
-Jose - LinkedIn: jarteaga00
+Jose - Github: jarteaga00
 ---
 
