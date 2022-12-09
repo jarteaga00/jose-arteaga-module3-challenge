@@ -1,4 +1,4 @@
-# <jose-password-generator>
+# <jose's-password-generator>
 
 ## Description
 
