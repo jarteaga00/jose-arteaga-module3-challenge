@@ -35,6 +35,8 @@ To generate a password:
         After pressing either "ok" for yes or "cancel" for no on each of these prompts, a password will be generated for you based on your input, and appear in the center box.  
 
 For reference of main page, see screenshot at (./assets/images/password-generator-homepage.jpg)
+To see deployed application, refer to https://jarteaga00.github.io/jose-password-generator/
+
 
 ## Credits
 
