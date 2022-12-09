@@ -96,7 +96,5 @@ function writePassword() {
   }
 }
 
-// create generate function password
-
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
